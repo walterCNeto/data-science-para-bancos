@@ -15,7 +15,7 @@ Risco de Contraparte/
  
 * [Índice](#índice)
 
-* [Descrição do Projeto](#descrição-do-projeto)
+* [Risco de Crédito](#Risco-de-Crédito)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
